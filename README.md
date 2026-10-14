@@ -1,7 +1,9 @@
+<p align="center"><img src="assets/social-preview.png" alt="Quick Enchant banner" width="100%"></p>
+
 # Quick Enchant
 Quick Enchant is a lightweight **Paper, Spigot, & Bukkit** plugin for 1.21+ that speeds up the enchanting and disenchanting process. It allows players to right-click an enchanting table to instantly enchant their held item, or right-click a grindstone to instantly wipe an item clean. No lapis is required, and it completely bypasses the vanilla GUIs.
 
-<img width="500" height="500" alt="QuickEnchant_logo" src="https://github.com/user-attachments/assets/f0a81849-8944-4f33-86cf-9d9534d1cc96" />
+<img src="assets/icon.png" width="250" height="250" alt="Quick Enchant icon" />
 
 ***
 ### Plugin made by imNikos.
